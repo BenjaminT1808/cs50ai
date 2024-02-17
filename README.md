@@ -1,6 +1,4 @@
-# Project Title
-
-Drain Gangle
+# Drain Gangle
 
 ## Description
 
